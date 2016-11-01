@@ -1,0 +1,12 @@
+build/
+target/
+
+*.class
+*.log
+
+# IntelliJIdea specific
+.idea/
+*.iml
+
+*.log
+
